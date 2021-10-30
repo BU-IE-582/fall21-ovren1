@@ -8,5 +8,5 @@ There will be several homework assignments done for this course.
 
 ### Homework Assignment 1
 * [Homework 1 Python Notebook](https://github.com/BU-IE-582/fall21-ovren1/blob/main/HW1/HW1.ipynb)
-* [Homework 1 HTML file]https://github.com/BU-IE-582/fall21-ovren1/blob/main/(HW1/HW1.html)
+* [Homework 1 HTML file](https://github.com/BU-IE-582/fall21-ovren1/blob/main/HW1/HW1.html)
 
