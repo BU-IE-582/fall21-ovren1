@@ -1,6 +1,7 @@
 ## Homework Assignments
 
 There will be several homework assignments done for this course.
+Ol Be!
 
 ### Homework Assignment 0
 * [Description of Homework 0](fall21-ovren1/HW0test/IE582_Fall21_Homework_0.pdf)
