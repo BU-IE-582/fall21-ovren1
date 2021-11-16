@@ -14,3 +14,8 @@ There will be several homework assignments done for this course.
 ### Homework Assignment 1
 * [Homework 1 Python Notebook](HW1/HW1.ipynb)
 * [Homework 1 HTML file](HW1/HW1.html)
+
+
+### Homework Assignment 2
+* [Homework 2 Python Notebook](HW2/IE-582-HW2.ipynb)
+* [Homework 2 HTML file](HW2/IE-582-HW2.html)
