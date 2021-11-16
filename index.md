@@ -10,3 +10,8 @@ Temam nerede!
 ### Homework Assignment 1
 * [Homework 1 Python Notebook](https://github.com/BU-IE-582/fall21-ovren1/blob/main/HW1/HW1.ipynb)
 * [Homework 1 HTML file](https://bu-ie-582.github.io/fall21-ovren1/HW1/HW1.html)
+
+
+### Homework Assignment 2
+* [Homework 2 Python Notebook](https://github.com/BU-IE-582/fall21-ovren1/blob/main/HW2/IE-582-HW2.ipynb)
+* [Homework 2 HTML file](https://bu-ie-582.github.io/fall21-ovren1/HW2/IE-582-HW2.html)
