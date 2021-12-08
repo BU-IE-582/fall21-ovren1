@@ -15,3 +15,7 @@ Temam nerede!
 ### Homework Assignment 2
 * [Homework 2 Python Notebook](https://github.com/BU-IE-582/fall21-ovren1/blob/main/HW2/IE-582-HW2.ipynb)
 * [Homework 2 HTML file](https://bu-ie-582.github.io/fall21-ovren1/HW2/IE-582-HW2.html)
+
+### Homework Assignment 3
+* [Homework 3 Python Notebook](https://github.com/BU-IE-582/fall21-ovren1/blob/main/HW3/IE582-HW3.ipynb)
+* [Homework 3 HTML file](https://bu-ie-582.github.io/fall21-ovren1/HW3/IE582-HW3.html)
