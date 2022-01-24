@@ -23,4 +23,4 @@ There will be several homework assignments done for this course.
 ### Final Project
 * [Final Project Python Notebook](https://github.com/BU-IE-582/fall21-ovren1/blob/main/Final/project_worksheet.ipynb)
 * [Final Project HTML file](https://bu-ie-582.github.io/fall21-ovren1/Final/project_worksheet.html)
-* [Final Project HTML file](https://bu-ie-582.github.io/fall21-ovren1/fall21-ovren1/Final/IE 582_Project_Report.pdf)
+* [Final Project Report](https://github.com/BU-IE-582/fall21-ovren1/blob/main/Final/IE 582_Project_Report.pdf)
