@@ -20,7 +20,7 @@ There will be several homework assignments done for this course.
 * [Homework 3 HTML file](https://bu-ie-582.github.io/fall21-ovren1/HW3/IE582-HW3.html)
 
 
-### Homework Assignment 3
+### Homework Assignment 5
 * [Homework 5 Python Notebook](https://github.com/BU-IE-582/fall21-ovren1/blob/main/HW5/IE582_HW5.ipynb)
 * [Homework 5 HTML file](https://bu-ie-582.github.io/fall21-ovren1/HW5/IE582_HW5.html)
 
